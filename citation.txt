@@ -1,0 +1,8 @@
+@article{REPO217,
+    author = "Liu, J. and Wang, Y. and Sun, G. and Pang, T.",
+    journal = "IEEE Transactions on Cybernetics",
+    number = "11",
+    title = "{Multisurrogate-Assisted Ant Colony Optimization for Expensive Optimization Problems With Continuous and Categorical Variables}",
+    volume = "52",
+    year = "2021"
+}
